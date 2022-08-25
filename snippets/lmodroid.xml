@@ -79,7 +79,7 @@
     <project path="packages/services/VncFlinger" name="LMODroid/platform_packages_services_VncFlinger" remote="lmodroid" />
 
     <!-- Prebuilts -->
-    <project path="prebuilts/lmodroid" name="LMODroid/platform_prebuilts_lmodroid" remote="lmodroid" />
+    <!-- <project path="prebuilts/lmodroid" name="LMODroid/platform_prebuilts_lmodroid" remote="lmodroid" /> -->
 
     <!-- System -->
     <project path="system/core" name="LMODroid/platform_system_core" remote="lmodroid" />
