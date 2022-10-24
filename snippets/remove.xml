@@ -47,6 +47,7 @@
     <remove-project name="platform/external/e2fsprogs" />
     <remove-project name="platform/external/exfatprogs" />
     <remove-project name="platform/external/gptfdisk" />
+    <remove-project name="platform/external/icu" />
     <remove-project name="platform/external/libcxx" />
     <remove-project name="platform/external/mksh" />
     <remove-project name="platform/external/setupcompat" />
@@ -86,6 +87,9 @@
 
     <!-- Kernel -->
     <remove-project name="kernel/configs" />
+
+    <!-- Libs -->
+    <remove-project name="platform/libcore" />
 
     <!-- Packages -->
     <!-- <remove-project name="platform/packages/apps/Browser2" /> -->
@@ -136,6 +140,7 @@
     <remove-project name="platform/system/memory/lmkd" />
     <remove-project name="platform/system/security" />
     <remove-project name="platform/system/sepolicy" />
+    <remove-project name="platform/system/timezone" />
     <remove-project name="platform/system/tools/mkbootimg" />
     <remove-project name="platform/system/update_engine" />
     <remove-project name="platform/system/vold" />
