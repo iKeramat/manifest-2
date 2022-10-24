@@ -82,6 +82,7 @@
 
     <!-- Prebuilts -->
     <!-- <project path="prebuilts/lmodroid" name="LMODroid/platform_prebuilts_lmodroid" remote="lmodroid" /> -->
+    <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-13.0.0_r0.20" />
 
     <!-- System -->
     <!-- <project path="system/core" name="LMODroid/platform_system_core" remote="lmodroid" /> -->
