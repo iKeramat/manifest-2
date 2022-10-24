@@ -122,7 +122,6 @@
     <project path="external/cldr" name="android_external_cldr" groups="pdk" remote="lineage" />
     <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" remote="lineage" />
     <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
-    <project path="external/expat" name="android_external_expat" groups="pdk" remote="lineage" />
     <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
     <project path="external/htop" name="android_external_htop" remote="lineage" />
     <project path="external/libcxx" name="android_external_libcxx" groups="pdk" remote="lineage" />
